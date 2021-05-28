@@ -1,4 +1,4 @@
 # connected
-bitsy game for game studies course
+bitsy game for cmst 2100: game studies. Currently a WIP
 
 bitsy hacks used:
